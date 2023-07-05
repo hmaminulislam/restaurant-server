@@ -1,7 +1,9 @@
 const express = require("express");
 const app = express();
 const dotenv = require("dotenv").config();
-const cors = require("cors")
+const cors = require("cors");
+const Dbconnect = require("./utiles/DBconccect");
+const Router = require("./app/modules/blog/blog.router")
 
 // port 
 const port = process.env.PORT || 4000;
@@ -12,6 +14,18 @@ app.use(cors());
 // parse data
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
+
+// database connected
+Dbconnect();
+
+
+// routes
+
+app.use("/api/v1", Router)
+
+
+
+
 
 
 app.get("/", (req, res) => {
