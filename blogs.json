@@ -1,542 +1,242 @@
 [
   {
-    "name": "15 Types of Tacos Everyone Should Try at Least Once",
-    "fetureImg": "https://ibb.co/vVkpcXG",
-    "authorImg": "https://i.ibb.co/yNrM72S/client-2.png",
-    "authorName": "Gilbert",
-    "authorDesc": "Mark Lowson a Florida native, who left his career in corporate w management six years ago to embark on a summer of soul searching that would",
-    "publish": "July 18, 2021",
-    "body": {
-      "summary": "It doesn’t have to be Tuesday for you to enjoy a good taco or three. According to statistics, Americans are eating upwards of 4.5 billion tacos a year! This comes as no surprise to the average taco enthusiast. If you know anything about all the different taco styles out there, you know the options are plentiful when it comes to choosing what types of tacos to order. Originating in Mexico, different types of tacos have been prepared and eaten as a quick, on the go street food since the 18th century. Since first arriving in the United States in 1905, Mexican-style tacos have been tweaked and remixed into countless variations, inspired by flavors from all over the world. These days, a taco can pretty much be defined as anything eaten on a tortilla. But to really test your taco knowledge, let’s get into the classic types of Mexican tacos. Traditional Mexican ingredients and flavors are inseparable when it comes to the classic taco varieties. And while you may be familiar with a few different types of street tacos and the typical American cheese-lettuce-tomato style — here are 15 classic taco varieties that you just have to try in order to consider yourself a true taco connoisseur."
+    "name": "Chocolate Life Is A Food Combination Product",
+    "fetureImg": "https://i.ibb.co/mJt6Vs5/12.jpg",
+    "bodyImgOne": "https://i.ibb.co/n0087zd/side-view-doner.jpg",
+    "bodyImgTwo": "https://i.ibb.co/k56nRZd/793-1859.jpg",
+    "category": "Food",
+    "tag": "Inspiration",
+    "writer": "Michal Smart",
+    "writerDesc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal , as opposed to using many web sites still in their infancy look like readable",
+    "summary": "It doesn’t have to be Tuesday for you to enjoy a good taco or three. According to statistics, Americans are eating upwards of 4.5 billion tacos a year! This comes as no surprise to the average taco enthusiast. If you know anything about all the different taco styles out there, you know the options are plentiful when it comes to choosing what types of tacos to order. Originating in Mexico, different types of tacos have been prepared and eaten as a quick, on the go street food since the 18th century. Since first arriving in the United States in 1905, Mexican-style tacos have been tweaked and remixed into countless variations, inspired by flavors from all over the world. These days, a taco can pretty much be defined as anything eaten on a tortilla.",
+    "subBodyOne": {
+      "title": "Latest Articles Updated Daily",
+      "contentOne": "Carne asada, or grilled steak tacos, are one of the more well-known types of street style tacos, but that doesn’t make them any less traditional. Early Mexico is known for its cows and “cowboys,” so it makes sense that hungry ranchers would stuff grilled steak into a corn tortilla for a filling meal in a pinch. Today’s carne asada tacos still closely resemble classic recipes: Marinated skirt or flank steak is cooked over a flame and thinly sliced. Add a warm corn tortilla, cilantro, onions and a salsa of your choice and you’ve got yourself a solid carne asada taco.",
+      "contentTwo": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a of letters, as opposed to using ‘Content here, content here’, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text"
     },
-    "subbody": [
-      {
-        "name": "Carne Asada",
-        "content": "Carne asada, or grilled steak tacos, are one of the more well-known types of street style tacos, but that doesn’t make them any less traditional. Early Mexico is known for its cows and “cowboys,” so it makes sense that hungry ranchers would stuff grilled steak into a corn tortilla for a filling meal in a pinch. Today’s carne asada tacos still closely resemble classic recipes: Marinated skirt or flank steak is cooked over a flame and thinly sliced. Add a warm corn tortilla, cilantro, onions and a salsa of your choice and you’ve got yourself a solid carne asada taco."
-      },
-      {
-        "name": "Carne molida or picadillo",
-        "content": "The mother of the classic American taco we all know and love. Carne Molida or picadillo Tacos are made with seasoned ground beef and served in a corn or flour tortilla. You can dress them up the way we do stateside, with cheese, sour cream, lettuce and tomato. Or go the more traditional route with cilantro, onion, and red or green salsa."
-      },
-      {
-        "name": "Birria",
-        "content": "Birria tacos are experiencing a resurgence of sorts thanks to popular social media networks. But in case you’ve never heard of this popular taco option: Birria is a flavorful, chile braised, pulled goat or beef stew that is stuffed in a corn tortilla, griddled and served with its own braising liquid or consomme for dipping. Typical birria toppings include onion, cilantro and, if you order it quesabirria style – melty cheese. Viva La Birria in Boston takes it a step further, serving up these flavorful braised meat in bowls, chimmichangas, tortas and burritos. Order now and get your birria tacos in less time than it’ll take to post about it."
-      },
-      {
-        "name": "Tinga",
-        "content": "Tinga tacos are made with shredded chicken cooked in a spicy tomato-chile sauce. Tinga makes a great filling for flour, corn tortillas and tostadas alike, and pairs best with a tangy pickled red onion and a drizzle of crema to cool it down. As always, add as much or little cilantro and chopped white onion as you want."
-      },
-      {
-        "name": "Pescado",
-        "content": "Typically, when you see pescado tacos on a menu, you can expect a flaky white fish that has been battered, deep fried and paired with sliced avocado and a tangy cabbage slaw. That is what we taco connoisseurs call baja style, named after its inception in the beach-side towns of (Mexico adjacent) southern California. If you’re in Philly, you can get your hands on these bright and crispy tacos from Iztaccihuatl for pickup or delivery with Grubhub."
-      },
-      {
-        "name": "Al Pastor",
-        "content": "Have you ever walked into a Mexican restaurant and seen those big standing rotisserie spits full of roasted pork and caramelized pineapple? That, dear reader, is Al Pastor. The classic Al Pastor recipe is pork shoulder that has been marinated in an adobo-based rub and then slow roasted with fresh pineapple for a succulent, smoky sweet final product. Pair it with a warm corn tortilla, chopped cilantro and onion, and a salsa verde for the perfect taco al pastor. "
-      },
-      {
-        "name": "Barbacoa",
-        "content": "Recipes for barbacoa vary depending on which parts of Mexico you may be in. But in essence, goat, or beef chuck roast is slow cooked in a flavorful, seasoned broth and shredded. When ordering barbacoa tacos you can expect them to come with fresh lime, chopped cilantro and onion, and a spicy salsa. You can get these more elusive goat version of these tacos from Empellon Taqueria in NYC when you order now for pickup or delivery with Grubhub."
-      },
-      {
-        "name": "Chorizo",
-        "content": "Not all chorizos are made the same, and the one you choose will determine the type of pork taco you’re going to get! Unlike Spanish chorizo, which is a cured pork sausage that has been seasoned with paprika. Mexican chorizo is a spicy, ground pork sausage that has been seasoned with red chile peppers to get chorizo rojo. Or, it can be made with green chile peppers and cilantro, which will get you chorizo verde. Both options are delicious, but you’re more likely to see chorizo rojo tacos on the menus at your favorite Mexican restaurants."
-      }
-    ]
+    "subBodyTwo": {
+      "title": "Carne molida or picadillo",
+      "contentOne": "The mother of the classic American taco we all know and love. Carne Molida or picadillo Tacos are made with seasoned ground beef and served in a corn or flour tortilla. You can dress them up the way we do stateside, with cheese, sour cream, lettuce and tomato. Or go the more traditional route with cilantro, onion, and red or green salsa."
+    }
   },
   {
-    "name": "15 Types of Tacos Everyone Should Try at Least Once",
-    "fetureImg": "https://ibb.co/vVkpcXG",
-    "authorImg": "https://i.ibb.co/yNrM72S/client-2.png",
-    "authorName": "Gilbert",
-    "authorDesc": "Mark Lowson a Florida native, who left his career in corporate w management six years ago to embark on a summer of soul searching that would",
-    "publish": "July 18, 2021",
-    "body": {
-      "summary": "It doesn’t have to be Tuesday for you to enjoy a good taco or three. According to statistics, Americans are eating upwards of 4.5 billion tacos a year! This comes as no surprise to the average taco enthusiast. If you know anything about all the different taco styles out there, you know the options are plentiful when it comes to choosing what types of tacos to order. Originating in Mexico, different types of tacos have been prepared and eaten as a quick, on the go street food since the 18th century. Since first arriving in the United States in 1905, Mexican-style tacos have been tweaked and remixed into countless variations, inspired by flavors from all over the world. These days, a taco can pretty much be defined as anything eaten on a tortilla. But to really test your taco knowledge, let’s get into the classic types of Mexican tacos. Traditional Mexican ingredients and flavors are inseparable when it comes to the classic taco varieties. And while you may be familiar with a few different types of street tacos and the typical American cheese-lettuce-tomato style — here are 15 classic taco varieties that you just have to try in order to consider yourself a true taco connoisseur."
+    "name": "Fine Dining Spacedish Dalgona Whipped",
+    "fetureImg": "https://i.ibb.co/Y7VP642/10.jpg",
+    "bodyImgOne": "https://i.ibb.co/SmvXLPZ/grilled-beef.jpg",
+    "bodyImgTwo": "https://i.ibb.co/K0gNNXv/Front-view-tasty.jpg",
+    "category": "Food",
+    "tag": "Inspiration",
+    "writer": "Vincent",
+    "writerDesc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo. Vivamus tempor vehicula suscipit. Nulla facilisi. Etiam ligula arcu, sagittis et quam vel, ullamcorper viverra neque. Cras nibh ante. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "summary": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est.",
+    "subBodyOne": {
+      "title": "Latest Articles Updated Daily",
+      "contentOne": "Some, like Eating Well and Cooking Light (published by Southern Living) are devoted entirely to that goal; still others, such as Bon and Food & Wine, have set aside columns to healthful cooking. Even Gourmet seems to be including more recipes with less cream and butter into its traditional devil-may-care mix.",
+      "contentTwo": "Opposed to using ‘Content here, content here’, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident,. Randomised words which don’t look even slightly believable."
     },
-    "subbody": [
-      {
-        "name": "Carne Asada",
-        "content": "Carne asada, or grilled steak tacos, are one of the more well-known types of street style tacos, but that doesn’t make them any less traditional. Early Mexico is known for its cows and “cowboys,” so it makes sense that hungry ranchers would stuff grilled steak into a corn tortilla for a filling meal in a pinch. Today’s carne asada tacos still closely resemble classic recipes: Marinated skirt or flank steak is cooked over a flame and thinly sliced. Add a warm corn tortilla, cilantro, onions and a salsa of your choice and you’ve got yourself a solid carne asada taco."
-      },
-      {
-        "name": "Carne molida or picadillo",
-        "content": "The mother of the classic American taco we all know and love. Carne Molida or picadillo Tacos are made with seasoned ground beef and served in a corn or flour tortilla. You can dress them up the way we do stateside, with cheese, sour cream, lettuce and tomato. Or go the more traditional route with cilantro, onion, and red or green salsa."
-      },
-      {
-        "name": "Birria",
-        "content": "Birria tacos are experiencing a resurgence of sorts thanks to popular social media networks. But in case you’ve never heard of this popular taco option: Birria is a flavorful, chile braised, pulled goat or beef stew that is stuffed in a corn tortilla, griddled and served with its own braising liquid or consomme for dipping. Typical birria toppings include onion, cilantro and, if you order it quesabirria style – melty cheese. Viva La Birria in Boston takes it a step further, serving up these flavorful braised meat in bowls, chimmichangas, tortas and burritos. Order now and get your birria tacos in less time than it’ll take to post about it."
-      },
-      {
-        "name": "Tinga",
-        "content": "Tinga tacos are made with shredded chicken cooked in a spicy tomato-chile sauce. Tinga makes a great filling for flour, corn tortillas and tostadas alike, and pairs best with a tangy pickled red onion and a drizzle of crema to cool it down. As always, add as much or little cilantro and chopped white onion as you want."
-      },
-      {
-        "name": "Pescado",
-        "content": "Typically, when you see pescado tacos on a menu, you can expect a flaky white fish that has been battered, deep fried and paired with sliced avocado and a tangy cabbage slaw. That is what we taco connoisseurs call baja style, named after its inception in the beach-side towns of (Mexico adjacent) southern California. If you’re in Philly, you can get your hands on these bright and crispy tacos from Iztaccihuatl for pickup or delivery with Grubhub."
-      },
-      {
-        "name": "Al Pastor",
-        "content": "Have you ever walked into a Mexican restaurant and seen those big standing rotisserie spits full of roasted pork and caramelized pineapple? That, dear reader, is Al Pastor. The classic Al Pastor recipe is pork shoulder that has been marinated in an adobo-based rub and then slow roasted with fresh pineapple for a succulent, smoky sweet final product. Pair it with a warm corn tortilla, chopped cilantro and onion, and a salsa verde for the perfect taco al pastor. "
-      },
-      {
-        "name": "Barbacoa",
-        "content": "Recipes for barbacoa vary depending on which parts of Mexico you may be in. But in essence, goat, or beef chuck roast is slow cooked in a flavorful, seasoned broth and shredded. When ordering barbacoa tacos you can expect them to come with fresh lime, chopped cilantro and onion, and a spicy salsa. You can get these more elusive goat version of these tacos from Empellon Taqueria in NYC when you order now for pickup or delivery with Grubhub."
-      },
-      {
-        "name": "Chorizo",
-        "content": "Not all chorizos are made the same, and the one you choose will determine the type of pork taco you’re going to get! Unlike Spanish chorizo, which is a cured pork sausage that has been seasoned with paprika. Mexican chorizo is a spicy, ground pork sausage that has been seasoned with red chile peppers to get chorizo rojo. Or, it can be made with green chile peppers and cilantro, which will get you chorizo verde. Both options are delicious, but you’re more likely to see chorizo rojo tacos on the menus at your favorite Mexican restaurants."
-      }
-    ]
+    "subBodyTwo": {
+      "title": "Carne molida or picadillo",
+      "contentOne": "If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text.All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful."
+    }
   },
   {
-    "name": "15 Types of Tacos Everyone Should Try at Least Once",
-    "fetureImg": "https://ibb.co/vVkpcXG",
-    "authorImg": "https://i.ibb.co/yNrM72S/client-2.png",
-    "authorName": "Gilbert",
-    "authorDesc": "Mark Lowson a Florida native, who left his career in corporate w management six years ago to embark on a summer of soul searching that would",
-    "publish": "July 18, 2021",
-    "body": {
-      "summary": "It doesn’t have to be Tuesday for you to enjoy a good taco or three. According to statistics, Americans are eating upwards of 4.5 billion tacos a year! This comes as no surprise to the average taco enthusiast. If you know anything about all the different taco styles out there, you know the options are plentiful when it comes to choosing what types of tacos to order. Originating in Mexico, different types of tacos have been prepared and eaten as a quick, on the go street food since the 18th century. Since first arriving in the United States in 1905, Mexican-style tacos have been tweaked and remixed into countless variations, inspired by flavors from all over the world. These days, a taco can pretty much be defined as anything eaten on a tortilla. But to really test your taco knowledge, let’s get into the classic types of Mexican tacos. Traditional Mexican ingredients and flavors are inseparable when it comes to the classic taco varieties. And while you may be familiar with a few different types of street tacos and the typical American cheese-lettuce-tomato style — here are 15 classic taco varieties that you just have to try in order to consider yourself a true taco connoisseur."
+    "name": "Homemade Belgian Waff Les Food Recipe",
+    "fetureImg": "https://i.ibb.co/1MRNCXg/9.jpg",
+    "bodyImgOne": "https://i.ibb.co/FYDFHwR/Chicken.jpg",
+    "bodyImgTwo": "https://i.ibb.co/dtXF0ZP/Baguette.jpg",
+    "category": "Food",
+    "tag": "Inspiration",
+    "writer": "Theodor",
+    "writerDesc": "Vestibulum eleifend gravida neque a bibendum. Vivamus viverra velit non cursus elementum. Donec sit amet posuere ipsum. Mauris rutrum sagittis sapien text link. In vitae ipsum eleifend, auctor turpis in, vestibulum dui. Ut vestibulum, lorem id eleifend mollis, urna augue imperdiet ante, vitae aliquam turpis mauris eget nisi. Sed vel purus id velit molestie.",
+    "summary": "Maecenas ornare varius mauris eu commodo. Aenean nibh risus, rhoncus eget consectetur ac. Consectetur adipiscing elit. Vivamus auctor condimentum sem et gravida. Maecenas id enim pharetra, sollicitudin dui eget, blandit lorem. Nunc vitae blandit lectus. Donec lacinia magna sit amet arcu aliquet luctus. Maecenas vehicula metus nisi, nec finibus justo vulputate eget. Pellentesque porta felis id erat sodales condimentum. Nam a lectus egestas, fermentum mi in, auctor lacus.",
+    "subBodyOne": {
+      "title": "Latest Articles Updated Daily",
+      "contentOne": "Lacus ut nisi ultrices faucibus. Pellentesque porta felis id erat sodales condimentum. Nam a lectus egestas, fermentum mi in, auctor lacus. Fusce a enim vel neque. Morbi facilisis justo sit amet urna feugiat aliquam. Nullam faucibus sodales mi. Vivamus nisl lorem, vulputate id pellentesque non, tristique ac leo. Quisque a convallis tortor, eu facilisis erat. Proin tincidunt aliquet mauris, in vestibulum arcu bibendum ullamcorper.",
+      "contentTwo": "Vivamus auctor condimentum sem et gravida. Maecenas id enim pharetra, sollicitudin dui eget, blandit lorem. Nunc vitae blandit lectus. Donec lacinia magna sit amet arcu aliquet luctus. Maecenas vehicula metus nisi, nec finibus justo vulputate eget."
     },
-    "subbody": [
-      {
-        "name": "Carne Asada",
-        "content": "Carne asada, or grilled steak tacos, are one of the more well-known types of street style tacos, but that doesn’t make them any less traditional. Early Mexico is known for its cows and “cowboys,” so it makes sense that hungry ranchers would stuff grilled steak into a corn tortilla for a filling meal in a pinch. Today’s carne asada tacos still closely resemble classic recipes: Marinated skirt or flank steak is cooked over a flame and thinly sliced. Add a warm corn tortilla, cilantro, onions and a salsa of your choice and you’ve got yourself a solid carne asada taco."
-      },
-      {
-        "name": "Carne molida or picadillo",
-        "content": "The mother of the classic American taco we all know and love. Carne Molida or picadillo Tacos are made with seasoned ground beef and served in a corn or flour tortilla. You can dress them up the way we do stateside, with cheese, sour cream, lettuce and tomato. Or go the more traditional route with cilantro, onion, and red or green salsa."
-      },
-      {
-        "name": "Birria",
-        "content": "Birria tacos are experiencing a resurgence of sorts thanks to popular social media networks. But in case you’ve never heard of this popular taco option: Birria is a flavorful, chile braised, pulled goat or beef stew that is stuffed in a corn tortilla, griddled and served with its own braising liquid or consomme for dipping. Typical birria toppings include onion, cilantro and, if you order it quesabirria style – melty cheese. Viva La Birria in Boston takes it a step further, serving up these flavorful braised meat in bowls, chimmichangas, tortas and burritos. Order now and get your birria tacos in less time than it’ll take to post about it."
-      },
-      {
-        "name": "Tinga",
-        "content": "Tinga tacos are made with shredded chicken cooked in a spicy tomato-chile sauce. Tinga makes a great filling for flour, corn tortillas and tostadas alike, and pairs best with a tangy pickled red onion and a drizzle of crema to cool it down. As always, add as much or little cilantro and chopped white onion as you want."
-      },
-      {
-        "name": "Pescado",
-        "content": "Typically, when you see pescado tacos on a menu, you can expect a flaky white fish that has been battered, deep fried and paired with sliced avocado and a tangy cabbage slaw. That is what we taco connoisseurs call baja style, named after its inception in the beach-side towns of (Mexico adjacent) southern California. If you’re in Philly, you can get your hands on these bright and crispy tacos from Iztaccihuatl for pickup or delivery with Grubhub."
-      },
-      {
-        "name": "Al Pastor",
-        "content": "Have you ever walked into a Mexican restaurant and seen those big standing rotisserie spits full of roasted pork and caramelized pineapple? That, dear reader, is Al Pastor. The classic Al Pastor recipe is pork shoulder that has been marinated in an adobo-based rub and then slow roasted with fresh pineapple for a succulent, smoky sweet final product. Pair it with a warm corn tortilla, chopped cilantro and onion, and a salsa verde for the perfect taco al pastor. "
-      },
-      {
-        "name": "Barbacoa",
-        "content": "Recipes for barbacoa vary depending on which parts of Mexico you may be in. But in essence, goat, or beef chuck roast is slow cooked in a flavorful, seasoned broth and shredded. When ordering barbacoa tacos you can expect them to come with fresh lime, chopped cilantro and onion, and a spicy salsa. You can get these more elusive goat version of these tacos from Empellon Taqueria in NYC when you order now for pickup or delivery with Grubhub."
-      },
-      {
-        "name": "Chorizo",
-        "content": "Not all chorizos are made the same, and the one you choose will determine the type of pork taco you’re going to get! Unlike Spanish chorizo, which is a cured pork sausage that has been seasoned with paprika. Mexican chorizo is a spicy, ground pork sausage that has been seasoned with red chile peppers to get chorizo rojo. Or, it can be made with green chile peppers and cilantro, which will get you chorizo verde. Both options are delicious, but you’re more likely to see chorizo rojo tacos on the menus at your favorite Mexican restaurants."
-      }
-    ]
+    "subBodyTwo": {
+      "title": "Carne molida or picadillo",
+      "contentOne": "Vivamus nisl lorem, vulputate id pellentesque non, tristique ac leo. Quisque a convallis tortor, eu facilisis erat. Proin tincidunt aliquet mauris, in vestibulum arcu bibendum ullamcorper. Donec lacinia magna sit amet arcu aliquet luctus."
+    }
   },
   {
-    "name": "15 Types of Tacos Everyone Should Try at Least Once",
-    "fetureImg": "https://ibb.co/vVkpcXG",
-    "authorImg": "https://i.ibb.co/yNrM72S/client-2.png",
-    "authorName": "Gilbert",
-    "authorDesc": "Mark Lowson a Florida native, who left his career in corporate w management six years ago to embark on a summer of soul searching that would",
-    "publish": "July 18, 2021",
-    "body": {
-      "summary": "It doesn’t have to be Tuesday for you to enjoy a good taco or three. According to statistics, Americans are eating upwards of 4.5 billion tacos a year! This comes as no surprise to the average taco enthusiast. If you know anything about all the different taco styles out there, you know the options are plentiful when it comes to choosing what types of tacos to order. Originating in Mexico, different types of tacos have been prepared and eaten as a quick, on the go street food since the 18th century. Since first arriving in the United States in 1905, Mexican-style tacos have been tweaked and remixed into countless variations, inspired by flavors from all over the world. These days, a taco can pretty much be defined as anything eaten on a tortilla. But to really test your taco knowledge, let’s get into the classic types of Mexican tacos. Traditional Mexican ingredients and flavors are inseparable when it comes to the classic taco varieties. And while you may be familiar with a few different types of street tacos and the typical American cheese-lettuce-tomato style — here are 15 classic taco varieties that you just have to try in order to consider yourself a true taco connoisseur."
+    "name": "Spaghetti With Rock Shrimp Of Food Test",
+    "fetureImg": "https://i.ibb.co/3sXGYRQ/8.jpg",
+    "bodyImgOne": "https://i.ibb.co/341cpxj/Fresh.jpg",
+    "bodyImgTwo": "https://i.ibb.co/yP74YCd/Fried.jpg",
+    "category": "Food",
+    "tag": "Inspiration",
+    "writer": "Finn Haider",
+    "writerDesc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal , as opposed to using many web sites still in their infancy look like readable",
+    "summary": "It doesn’t have to be Tuesday for you to enjoy a good taco or three. According to statistics, Americans are eating upwards of 4.5 billion tacos a year! This comes as no surprise to the average taco enthusiast. If you know anything about all the different taco styles out there, you know the options are plentiful when it comes to choosing what types of tacos to order. Originating in Mexico, different types of tacos have been prepared and eaten as a quick, on the go street food since the 18th century. Since first arriving in the United States in 1905, Mexican-style tacos have been tweaked and remixed into countless variations, inspired by flavors from all over the world. These days, a taco can pretty much be defined as anything eaten on a tortilla.",
+    "subBodyOne": {
+      "title": "Latest Articles Updated Daily",
+      "contentOne": "Carne asada, or grilled steak tacos, are one of the more well-known types of street style tacos, but that doesn’t make them any less traditional. Early Mexico is known for its cows and “cowboys,” so it makes sense that hungry ranchers would stuff grilled steak into a corn tortilla for a filling meal in a pinch. Today’s carne asada tacos still closely resemble classic recipes: Marinated skirt or flank steak is cooked over a flame and thinly sliced. Add a warm corn tortilla, cilantro, onions and a salsa of your choice and you’ve got yourself a solid carne asada taco.",
+      "contentTwo": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a of letters, as opposed to using ‘Content here, content here’, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text"
     },
-    "subbody": [
-      {
-        "name": "Carne Asada",
-        "content": "Carne asada, or grilled steak tacos, are one of the more well-known types of street style tacos, but that doesn’t make them any less traditional. Early Mexico is known for its cows and “cowboys,” so it makes sense that hungry ranchers would stuff grilled steak into a corn tortilla for a filling meal in a pinch. Today’s carne asada tacos still closely resemble classic recipes: Marinated skirt or flank steak is cooked over a flame and thinly sliced. Add a warm corn tortilla, cilantro, onions and a salsa of your choice and you’ve got yourself a solid carne asada taco."
-      },
-      {
-        "name": "Carne molida or picadillo",
-        "content": "The mother of the classic American taco we all know and love. Carne Molida or picadillo Tacos are made with seasoned ground beef and served in a corn or flour tortilla. You can dress them up the way we do stateside, with cheese, sour cream, lettuce and tomato. Or go the more traditional route with cilantro, onion, and red or green salsa."
-      },
-      {
-        "name": "Birria",
-        "content": "Birria tacos are experiencing a resurgence of sorts thanks to popular social media networks. But in case you’ve never heard of this popular taco option: Birria is a flavorful, chile braised, pulled goat or beef stew that is stuffed in a corn tortilla, griddled and served with its own braising liquid or consomme for dipping. Typical birria toppings include onion, cilantro and, if you order it quesabirria style – melty cheese. Viva La Birria in Boston takes it a step further, serving up these flavorful braised meat in bowls, chimmichangas, tortas and burritos. Order now and get your birria tacos in less time than it’ll take to post about it."
-      },
-      {
-        "name": "Tinga",
-        "content": "Tinga tacos are made with shredded chicken cooked in a spicy tomato-chile sauce. Tinga makes a great filling for flour, corn tortillas and tostadas alike, and pairs best with a tangy pickled red onion and a drizzle of crema to cool it down. As always, add as much or little cilantro and chopped white onion as you want."
-      },
-      {
-        "name": "Pescado",
-        "content": "Typically, when you see pescado tacos on a menu, you can expect a flaky white fish that has been battered, deep fried and paired with sliced avocado and a tangy cabbage slaw. That is what we taco connoisseurs call baja style, named after its inception in the beach-side towns of (Mexico adjacent) southern California. If you’re in Philly, you can get your hands on these bright and crispy tacos from Iztaccihuatl for pickup or delivery with Grubhub."
-      },
-      {
-        "name": "Al Pastor",
-        "content": "Have you ever walked into a Mexican restaurant and seen those big standing rotisserie spits full of roasted pork and caramelized pineapple? That, dear reader, is Al Pastor. The classic Al Pastor recipe is pork shoulder that has been marinated in an adobo-based rub and then slow roasted with fresh pineapple for a succulent, smoky sweet final product. Pair it with a warm corn tortilla, chopped cilantro and onion, and a salsa verde for the perfect taco al pastor. "
-      },
-      {
-        "name": "Barbacoa",
-        "content": "Recipes for barbacoa vary depending on which parts of Mexico you may be in. But in essence, goat, or beef chuck roast is slow cooked in a flavorful, seasoned broth and shredded. When ordering barbacoa tacos you can expect them to come with fresh lime, chopped cilantro and onion, and a spicy salsa. You can get these more elusive goat version of these tacos from Empellon Taqueria in NYC when you order now for pickup or delivery with Grubhub."
-      },
-      {
-        "name": "Chorizo",
-        "content": "Not all chorizos are made the same, and the one you choose will determine the type of pork taco you’re going to get! Unlike Spanish chorizo, which is a cured pork sausage that has been seasoned with paprika. Mexican chorizo is a spicy, ground pork sausage that has been seasoned with red chile peppers to get chorizo rojo. Or, it can be made with green chile peppers and cilantro, which will get you chorizo verde. Both options are delicious, but you’re more likely to see chorizo rojo tacos on the menus at your favorite Mexican restaurants."
-      }
-    ]
+    "subBodyTwo": {
+      "title": "Carne molida or picadillo",
+      "contentOne": "The mother of the classic American taco we all know and love. Carne Molida or picadillo Tacos are made with seasoned ground beef and served in a corn or flour tortilla. You can dress them up the way we do stateside, with cheese, sour cream, lettuce and tomato. Or go the more traditional route with cilantro, onion, and red or green salsa."
+    }
   },
   {
-    "name": "15 Types of Tacos Everyone Should Try at Least Once",
-    "fetureImg": "https://ibb.co/vVkpcXG",
-    "authorImg": "https://i.ibb.co/yNrM72S/client-2.png",
-    "authorName": "Gilbert",
-    "authorDesc": "Mark Lowson a Florida native, who left his career in corporate w management six years ago to embark on a summer of soul searching that would",
-    "publish": "July 18, 2021",
-    "body": {
-      "summary": "It doesn’t have to be Tuesday for you to enjoy a good taco or three. According to statistics, Americans are eating upwards of 4.5 billion tacos a year! This comes as no surprise to the average taco enthusiast. If you know anything about all the different taco styles out there, you know the options are plentiful when it comes to choosing what types of tacos to order. Originating in Mexico, different types of tacos have been prepared and eaten as a quick, on the go street food since the 18th century. Since first arriving in the United States in 1905, Mexican-style tacos have been tweaked and remixed into countless variations, inspired by flavors from all over the world. These days, a taco can pretty much be defined as anything eaten on a tortilla. But to really test your taco knowledge, let’s get into the classic types of Mexican tacos. Traditional Mexican ingredients and flavors are inseparable when it comes to the classic taco varieties. And while you may be familiar with a few different types of street tacos and the typical American cheese-lettuce-tomato style — here are 15 classic taco varieties that you just have to try in order to consider yourself a true taco connoisseur."
+    "name": "Life Is A Combination Of Food Fusion Test",
+    "fetureImg": "https://i.ibb.co/5Rp3RsY/7.jpg",
+    "bodyImgOne": "https://i.ibb.co/pnz2frT/French.jpg",
+    "bodyImgTwo": "https://i.ibb.co/9WbHTBZ/Top-view.jpg",
+    "category": "Food",
+    "tag": "Inspiration",
+    "writer": "Jonas Baumgar",
+    "writerDesc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal , as opposed to using many web sites still in their infancy look like readable",
+    "summary": "It doesn’t have to be Tuesday for you to enjoy a good taco or three. According to statistics, Americans are eating upwards of 4.5 billion tacos a year! This comes as no surprise to the average taco enthusiast. If you know anything about all the different taco styles out there, you know the options are plentiful when it comes to choosing what types of tacos to order. Originating in Mexico, different types of tacos have been prepared and eaten as a quick, on the go street food since the 18th century. Since first arriving in the United States in 1905, Mexican-style tacos have been tweaked and remixed into countless variations, inspired by flavors from all over the world. These days, a taco can pretty much be defined as anything eaten on a tortilla.",
+    "subBodyOne": {
+      "title": "Latest Articles Updated Daily",
+      "contentOne": "Carne asada, or grilled steak tacos, are one of the more well-known types of street style tacos, but that doesn’t make them any less traditional. Early Mexico is known for its cows and “cowboys,” so it makes sense that hungry ranchers would stuff grilled steak into a corn tortilla for a filling meal in a pinch. Today’s carne asada tacos still closely resemble classic recipes: Marinated skirt or flank steak is cooked over a flame and thinly sliced. Add a warm corn tortilla, cilantro, onions and a salsa of your choice and you’ve got yourself a solid carne asada taco.",
+      "contentTwo": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a of letters, as opposed to using ‘Content here, content here’, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text"
     },
-    "subbody": [
-      {
-        "name": "Carne Asada",
-        "content": "Carne asada, or grilled steak tacos, are one of the more well-known types of street style tacos, but that doesn’t make them any less traditional. Early Mexico is known for its cows and “cowboys,” so it makes sense that hungry ranchers would stuff grilled steak into a corn tortilla for a filling meal in a pinch. Today’s carne asada tacos still closely resemble classic recipes: Marinated skirt or flank steak is cooked over a flame and thinly sliced. Add a warm corn tortilla, cilantro, onions and a salsa of your choice and you’ve got yourself a solid carne asada taco."
-      },
-      {
-        "name": "Carne molida or picadillo",
-        "content": "The mother of the classic American taco we all know and love. Carne Molida or picadillo Tacos are made with seasoned ground beef and served in a corn or flour tortilla. You can dress them up the way we do stateside, with cheese, sour cream, lettuce and tomato. Or go the more traditional route with cilantro, onion, and red or green salsa."
-      },
-      {
-        "name": "Birria",
-        "content": "Birria tacos are experiencing a resurgence of sorts thanks to popular social media networks. But in case you’ve never heard of this popular taco option: Birria is a flavorful, chile braised, pulled goat or beef stew that is stuffed in a corn tortilla, griddled and served with its own braising liquid or consomme for dipping. Typical birria toppings include onion, cilantro and, if you order it quesabirria style – melty cheese. Viva La Birria in Boston takes it a step further, serving up these flavorful braised meat in bowls, chimmichangas, tortas and burritos. Order now and get your birria tacos in less time than it’ll take to post about it."
-      },
-      {
-        "name": "Tinga",
-        "content": "Tinga tacos are made with shredded chicken cooked in a spicy tomato-chile sauce. Tinga makes a great filling for flour, corn tortillas and tostadas alike, and pairs best with a tangy pickled red onion and a drizzle of crema to cool it down. As always, add as much or little cilantro and chopped white onion as you want."
-      },
-      {
-        "name": "Pescado",
-        "content": "Typically, when you see pescado tacos on a menu, you can expect a flaky white fish that has been battered, deep fried and paired with sliced avocado and a tangy cabbage slaw. That is what we taco connoisseurs call baja style, named after its inception in the beach-side towns of (Mexico adjacent) southern California. If you’re in Philly, you can get your hands on these bright and crispy tacos from Iztaccihuatl for pickup or delivery with Grubhub."
-      },
-      {
-        "name": "Al Pastor",
-        "content": "Have you ever walked into a Mexican restaurant and seen those big standing rotisserie spits full of roasted pork and caramelized pineapple? That, dear reader, is Al Pastor. The classic Al Pastor recipe is pork shoulder that has been marinated in an adobo-based rub and then slow roasted with fresh pineapple for a succulent, smoky sweet final product. Pair it with a warm corn tortilla, chopped cilantro and onion, and a salsa verde for the perfect taco al pastor. "
-      },
-      {
-        "name": "Barbacoa",
-        "content": "Recipes for barbacoa vary depending on which parts of Mexico you may be in. But in essence, goat, or beef chuck roast is slow cooked in a flavorful, seasoned broth and shredded. When ordering barbacoa tacos you can expect them to come with fresh lime, chopped cilantro and onion, and a spicy salsa. You can get these more elusive goat version of these tacos from Empellon Taqueria in NYC when you order now for pickup or delivery with Grubhub."
-      },
-      {
-        "name": "Chorizo",
-        "content": "Not all chorizos are made the same, and the one you choose will determine the type of pork taco you’re going to get! Unlike Spanish chorizo, which is a cured pork sausage that has been seasoned with paprika. Mexican chorizo is a spicy, ground pork sausage that has been seasoned with red chile peppers to get chorizo rojo. Or, it can be made with green chile peppers and cilantro, which will get you chorizo verde. Both options are delicious, but you’re more likely to see chorizo rojo tacos on the menus at your favorite Mexican restaurants."
-      }
-    ]
+    "subBodyTwo": {
+      "title": "Carne molida or picadillo",
+      "contentOne": "The mother of the classic American taco we all know and love. Carne Molida or picadillo Tacos are made with seasoned ground beef and served in a corn or flour tortilla. You can dress them up the way we do stateside, with cheese, sour cream, lettuce and tomato. Or go the more traditional route with cilantro, onion, and red or green salsa."
+    }
   },
   {
-    "name": "15 Types of Tacos Everyone Should Try at Least Once",
-    "fetureImg": "https://ibb.co/vVkpcXG",
-    "authorImg": "https://i.ibb.co/yNrM72S/client-2.png",
-    "authorName": "Gilbert",
-    "authorDesc": "Mark Lowson a Florida native, who left his career in corporate w management six years ago to embark on a summer of soul searching that would",
-    "publish": "July 18, 2021",
-    "body": {
-      "summary": "It doesn’t have to be Tuesday for you to enjoy a good taco or three. According to statistics, Americans are eating upwards of 4.5 billion tacos a year! This comes as no surprise to the average taco enthusiast. If you know anything about all the different taco styles out there, you know the options are plentiful when it comes to choosing what types of tacos to order. Originating in Mexico, different types of tacos have been prepared and eaten as a quick, on the go street food since the 18th century. Since first arriving in the United States in 1905, Mexican-style tacos have been tweaked and remixed into countless variations, inspired by flavors from all over the world. These days, a taco can pretty much be defined as anything eaten on a tortilla. But to really test your taco knowledge, let’s get into the classic types of Mexican tacos. Traditional Mexican ingredients and flavors are inseparable when it comes to the classic taco varieties. And while you may be familiar with a few different types of street tacos and the typical American cheese-lettuce-tomato style — here are 15 classic taco varieties that you just have to try in order to consider yourself a true taco connoisseur."
+    "name": "Heavenly Dish Experience Modern Fusion",
+    "fetureImg": "https://i.ibb.co/1Zj0Dcz/6.jpg",
+    "bodyImgOne": "https://i.ibb.co/C8BJ4Hs/Meat.jpg",
+    "bodyImgTwo": "https://i.ibb.co/xmy43zD/Club.jpg",
+    "category": "Food",
+    "tag": "Inspiration",
+    "writer": "Samuel Winkler",
+    "writerDesc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal , as opposed to using many web sites still in their infancy look like readable",
+    "summary": "It doesn’t have to be Tuesday for you to enjoy a good taco or three. According to statistics, Americans are eating upwards of 4.5 billion tacos a year! This comes as no surprise to the average taco enthusiast. If you know anything about all the different taco styles out there, you know the options are plentiful when it comes to choosing what types of tacos to order. Originating in Mexico, different types of tacos have been prepared and eaten as a quick, on the go street food since the 18th century. Since first arriving in the United States in 1905, Mexican-style tacos have been tweaked and remixed into countless variations, inspired by flavors from all over the world. These days, a taco can pretty much be defined as anything eaten on a tortilla.",
+    "subBodyOne": {
+      "title": "Latest Articles Updated Daily",
+      "contentOne": "Carne asada, or grilled steak tacos, are one of the more well-known types of street style tacos, but that doesn’t make them any less traditional. Early Mexico is known for its cows and “cowboys,” so it makes sense that hungry ranchers would stuff grilled steak into a corn tortilla for a filling meal in a pinch. Today’s carne asada tacos still closely resemble classic recipes: Marinated skirt or flank steak is cooked over a flame and thinly sliced. Add a warm corn tortilla, cilantro, onions and a salsa of your choice and you’ve got yourself a solid carne asada taco.",
+      "contentTwo": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a of letters, as opposed to using ‘Content here, content here’, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text"
     },
-    "subbody": [
-      {
-        "name": "Carne Asada",
-        "content": "Carne asada, or grilled steak tacos, are one of the more well-known types of street style tacos, but that doesn’t make them any less traditional. Early Mexico is known for its cows and “cowboys,” so it makes sense that hungry ranchers would stuff grilled steak into a corn tortilla for a filling meal in a pinch. Today’s carne asada tacos still closely resemble classic recipes: Marinated skirt or flank steak is cooked over a flame and thinly sliced. Add a warm corn tortilla, cilantro, onions and a salsa of your choice and you’ve got yourself a solid carne asada taco."
-      },
-      {
-        "name": "Carne molida or picadillo",
-        "content": "The mother of the classic American taco we all know and love. Carne Molida or picadillo Tacos are made with seasoned ground beef and served in a corn or flour tortilla. You can dress them up the way we do stateside, with cheese, sour cream, lettuce and tomato. Or go the more traditional route with cilantro, onion, and red or green salsa."
-      },
-      {
-        "name": "Birria",
-        "content": "Birria tacos are experiencing a resurgence of sorts thanks to popular social media networks. But in case you’ve never heard of this popular taco option: Birria is a flavorful, chile braised, pulled goat or beef stew that is stuffed in a corn tortilla, griddled and served with its own braising liquid or consomme for dipping. Typical birria toppings include onion, cilantro and, if you order it quesabirria style – melty cheese. Viva La Birria in Boston takes it a step further, serving up these flavorful braised meat in bowls, chimmichangas, tortas and burritos. Order now and get your birria tacos in less time than it’ll take to post about it."
-      },
-      {
-        "name": "Tinga",
-        "content": "Tinga tacos are made with shredded chicken cooked in a spicy tomato-chile sauce. Tinga makes a great filling for flour, corn tortillas and tostadas alike, and pairs best with a tangy pickled red onion and a drizzle of crema to cool it down. As always, add as much or little cilantro and chopped white onion as you want."
-      },
-      {
-        "name": "Pescado",
-        "content": "Typically, when you see pescado tacos on a menu, you can expect a flaky white fish that has been battered, deep fried and paired with sliced avocado and a tangy cabbage slaw. That is what we taco connoisseurs call baja style, named after its inception in the beach-side towns of (Mexico adjacent) southern California. If you’re in Philly, you can get your hands on these bright and crispy tacos from Iztaccihuatl for pickup or delivery with Grubhub."
-      },
-      {
-        "name": "Al Pastor",
-        "content": "Have you ever walked into a Mexican restaurant and seen those big standing rotisserie spits full of roasted pork and caramelized pineapple? That, dear reader, is Al Pastor. The classic Al Pastor recipe is pork shoulder that has been marinated in an adobo-based rub and then slow roasted with fresh pineapple for a succulent, smoky sweet final product. Pair it with a warm corn tortilla, chopped cilantro and onion, and a salsa verde for the perfect taco al pastor. "
-      },
-      {
-        "name": "Barbacoa",
-        "content": "Recipes for barbacoa vary depending on which parts of Mexico you may be in. But in essence, goat, or beef chuck roast is slow cooked in a flavorful, seasoned broth and shredded. When ordering barbacoa tacos you can expect them to come with fresh lime, chopped cilantro and onion, and a spicy salsa. You can get these more elusive goat version of these tacos from Empellon Taqueria in NYC when you order now for pickup or delivery with Grubhub."
-      },
-      {
-        "name": "Chorizo",
-        "content": "Not all chorizos are made the same, and the one you choose will determine the type of pork taco you’re going to get! Unlike Spanish chorizo, which is a cured pork sausage that has been seasoned with paprika. Mexican chorizo is a spicy, ground pork sausage that has been seasoned with red chile peppers to get chorizo rojo. Or, it can be made with green chile peppers and cilantro, which will get you chorizo verde. Both options are delicious, but you’re more likely to see chorizo rojo tacos on the menus at your favorite Mexican restaurants."
-      }
-    ]
+    "subBodyTwo": {
+      "title": "Carne molida or picadillo",
+      "contentOne": "The mother of the classic American taco we all know and love. Carne Molida or picadillo Tacos are made with seasoned ground beef and served in a corn or flour tortilla. You can dress them up the way we do stateside, with cheese, sour cream, lettuce and tomato. Or go the more traditional route with cilantro, onion, and red or green salsa."
+    }
   },
   {
-    "name": "15 Types of Tacos Everyone Should Try at Least Once",
-    "fetureImg": "https://ibb.co/vVkpcXG",
-    "authorImg": "https://i.ibb.co/yNrM72S/client-2.png",
-    "authorName": "Gilbert",
-    "authorDesc": "Mark Lowson a Florida native, who left his career in corporate w management six years ago to embark on a summer of soul searching that would",
-    "publish": "July 18, 2021",
-    "body": {
-      "summary": "It doesn’t have to be Tuesday for you to enjoy a good taco or three. According to statistics, Americans are eating upwards of 4.5 billion tacos a year! This comes as no surprise to the average taco enthusiast. If you know anything about all the different taco styles out there, you know the options are plentiful when it comes to choosing what types of tacos to order. Originating in Mexico, different types of tacos have been prepared and eaten as a quick, on the go street food since the 18th century. Since first arriving in the United States in 1905, Mexican-style tacos have been tweaked and remixed into countless variations, inspired by flavors from all over the world. These days, a taco can pretty much be defined as anything eaten on a tortilla. But to really test your taco knowledge, let’s get into the classic types of Mexican tacos. Traditional Mexican ingredients and flavors are inseparable when it comes to the classic taco varieties. And while you may be familiar with a few different types of street tacos and the typical American cheese-lettuce-tomato style — here are 15 classic taco varieties that you just have to try in order to consider yourself a true taco connoisseur."
+    "name": "Recipe Dining Experience Modern Fusion",
+    "fetureImg": "https://i.ibb.co/JHnZDrC/5.jpg",
+    "bodyImgOne": "https://i.ibb.co/kGfcwP0/Top-view.jpg",
+    "bodyImgTwo": "https://i.ibb.co/dJfgh3H/Junk-food.jpg",
+    "category": "Food",
+    "tag": "Inspiration",
+    "writer": "Andreas Schmidt",
+    "writerDesc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal , as opposed to using many web sites still in their infancy look like readable",
+    "summary": "It doesn’t have to be Tuesday for you to enjoy a good taco or three. According to statistics, Americans are eating upwards of 4.5 billion tacos a year! This comes as no surprise to the average taco enthusiast. If you know anything about all the different taco styles out there, you know the options are plentiful when it comes to choosing what types of tacos to order. Originating in Mexico, different types of tacos have been prepared and eaten as a quick, on the go street food since the 18th century. Since first arriving in the United States in 1905, Mexican-style tacos have been tweaked and remixed into countless variations, inspired by flavors from all over the world. These days, a taco can pretty much be defined as anything eaten on a tortilla.",
+    "subBodyOne": {
+      "title": "Latest Articles Updated Daily",
+      "contentOne": "Carne asada, or grilled steak tacos, are one of the more well-known types of street style tacos, but that doesn’t make them any less traditional. Early Mexico is known for its cows and “cowboys,” so it makes sense that hungry ranchers would stuff grilled steak into a corn tortilla for a filling meal in a pinch. Today’s carne asada tacos still closely resemble classic recipes: Marinated skirt or flank steak is cooked over a flame and thinly sliced. Add a warm corn tortilla, cilantro, onions and a salsa of your choice and you’ve got yourself a solid carne asada taco.",
+      "contentTwo": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a of letters, as opposed to using ‘Content here, content here’, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text"
     },
-    "subbody": [
-      {
-        "name": "Carne Asada",
-        "content": "Carne asada, or grilled steak tacos, are one of the more well-known types of street style tacos, but that doesn’t make them any less traditional. Early Mexico is known for its cows and “cowboys,” so it makes sense that hungry ranchers would stuff grilled steak into a corn tortilla for a filling meal in a pinch. Today’s carne asada tacos still closely resemble classic recipes: Marinated skirt or flank steak is cooked over a flame and thinly sliced. Add a warm corn tortilla, cilantro, onions and a salsa of your choice and you’ve got yourself a solid carne asada taco."
-      },
-      {
-        "name": "Carne molida or picadillo",
-        "content": "The mother of the classic American taco we all know and love. Carne Molida or picadillo Tacos are made with seasoned ground beef and served in a corn or flour tortilla. You can dress them up the way we do stateside, with cheese, sour cream, lettuce and tomato. Or go the more traditional route with cilantro, onion, and red or green salsa."
-      },
-      {
-        "name": "Birria",
-        "content": "Birria tacos are experiencing a resurgence of sorts thanks to popular social media networks. But in case you’ve never heard of this popular taco option: Birria is a flavorful, chile braised, pulled goat or beef stew that is stuffed in a corn tortilla, griddled and served with its own braising liquid or consomme for dipping. Typical birria toppings include onion, cilantro and, if you order it quesabirria style – melty cheese. Viva La Birria in Boston takes it a step further, serving up these flavorful braised meat in bowls, chimmichangas, tortas and burritos. Order now and get your birria tacos in less time than it’ll take to post about it."
-      },
-      {
-        "name": "Tinga",
-        "content": "Tinga tacos are made with shredded chicken cooked in a spicy tomato-chile sauce. Tinga makes a great filling for flour, corn tortillas and tostadas alike, and pairs best with a tangy pickled red onion and a drizzle of crema to cool it down. As always, add as much or little cilantro and chopped white onion as you want."
-      },
-      {
-        "name": "Pescado",
-        "content": "Typically, when you see pescado tacos on a menu, you can expect a flaky white fish that has been battered, deep fried and paired with sliced avocado and a tangy cabbage slaw. That is what we taco connoisseurs call baja style, named after its inception in the beach-side towns of (Mexico adjacent) southern California. If you’re in Philly, you can get your hands on these bright and crispy tacos from Iztaccihuatl for pickup or delivery with Grubhub."
-      },
-      {
-        "name": "Al Pastor",
-        "content": "Have you ever walked into a Mexican restaurant and seen those big standing rotisserie spits full of roasted pork and caramelized pineapple? That, dear reader, is Al Pastor. The classic Al Pastor recipe is pork shoulder that has been marinated in an adobo-based rub and then slow roasted with fresh pineapple for a succulent, smoky sweet final product. Pair it with a warm corn tortilla, chopped cilantro and onion, and a salsa verde for the perfect taco al pastor. "
-      },
-      {
-        "name": "Barbacoa",
-        "content": "Recipes for barbacoa vary depending on which parts of Mexico you may be in. But in essence, goat, or beef chuck roast is slow cooked in a flavorful, seasoned broth and shredded. When ordering barbacoa tacos you can expect them to come with fresh lime, chopped cilantro and onion, and a spicy salsa. You can get these more elusive goat version of these tacos from Empellon Taqueria in NYC when you order now for pickup or delivery with Grubhub."
-      },
-      {
-        "name": "Chorizo",
-        "content": "Not all chorizos are made the same, and the one you choose will determine the type of pork taco you’re going to get! Unlike Spanish chorizo, which is a cured pork sausage that has been seasoned with paprika. Mexican chorizo is a spicy, ground pork sausage that has been seasoned with red chile peppers to get chorizo rojo. Or, it can be made with green chile peppers and cilantro, which will get you chorizo verde. Both options are delicious, but you’re more likely to see chorizo rojo tacos on the menus at your favorite Mexican restaurants."
-      }
-    ]
+    "subBodyTwo": {
+      "title": "Carne molida or picadillo",
+      "contentOne": "The mother of the classic American taco we all know and love. Carne Molida or picadillo Tacos are made with seasoned ground beef and served in a corn or flour tortilla. You can dress them up the way we do stateside, with cheese, sour cream, lettuce and tomato. Or go the more traditional route with cilantro, onion, and red or green salsa."
+    }
   },
   {
-    "name": "15 Types of Tacos Everyone Should Try at Least Once",
-    "fetureImg": "https://ibb.co/vVkpcXG",
-    "authorImg": "https://i.ibb.co/yNrM72S/client-2.png",
-    "authorName": "Gilbert",
-    "authorDesc": "Mark Lowson a Florida native, who left his career in corporate w management six years ago to embark on a summer of soul searching that would",
-    "publish": "July 18, 2021",
-    "body": {
-      "summary": "It doesn’t have to be Tuesday for you to enjoy a good taco or three. According to statistics, Americans are eating upwards of 4.5 billion tacos a year! This comes as no surprise to the average taco enthusiast. If you know anything about all the different taco styles out there, you know the options are plentiful when it comes to choosing what types of tacos to order. Originating in Mexico, different types of tacos have been prepared and eaten as a quick, on the go street food since the 18th century. Since first arriving in the United States in 1905, Mexican-style tacos have been tweaked and remixed into countless variations, inspired by flavors from all over the world. These days, a taco can pretty much be defined as anything eaten on a tortilla. But to really test your taco knowledge, let’s get into the classic types of Mexican tacos. Traditional Mexican ingredients and flavors are inseparable when it comes to the classic taco varieties. And while you may be familiar with a few different types of street tacos and the typical American cheese-lettuce-tomato style — here are 15 classic taco varieties that you just have to try in order to consider yourself a true taco connoisseur."
+    "name": "Premium Food Recipe Cooks Recipe Cuisine",
+    "fetureImg": "https://i.ibb.co/4pz2kqC/4-1.jpg",
+    "bodyImgOne": "https://i.ibb.co/TT9ZwMh/Club.jpg",
+    "bodyImgTwo": "https://i.ibb.co/55qLpTF/Side-view.jpg",
+    "category": "Food",
+    "tag": "Inspiration",
+    "writer": "Sebastian Berger",
+    "writerDesc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal , as opposed to using many web sites still in their infancy look like readable",
+    "summary": "It doesn’t have to be Tuesday for you to enjoy a good taco or three. According to statistics, Americans are eating upwards of 4.5 billion tacos a year! This comes as no surprise to the average taco enthusiast. If you know anything about all the different taco styles out there, you know the options are plentiful when it comes to choosing what types of tacos to order. Originating in Mexico, different types of tacos have been prepared and eaten as a quick, on the go street food since the 18th century. Since first arriving in the United States in 1905, Mexican-style tacos have been tweaked and remixed into countless variations, inspired by flavors from all over the world. These days, a taco can pretty much be defined as anything eaten on a tortilla.",
+    "subBodyOne": {
+      "title": "Latest Articles Updated Daily",
+      "contentOne": "Carne asada, or grilled steak tacos, are one of the more well-known types of street style tacos, but that doesn’t make them any less traditional. Early Mexico is known for its cows and “cowboys,” so it makes sense that hungry ranchers would stuff grilled steak into a corn tortilla for a filling meal in a pinch. Today’s carne asada tacos still closely resemble classic recipes: Marinated skirt or flank steak is cooked over a flame and thinly sliced. Add a warm corn tortilla, cilantro, onions and a salsa of your choice and you’ve got yourself a solid carne asada taco.",
+      "contentTwo": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a of letters, as opposed to using ‘Content here, content here’, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text"
     },
-    "subbody": [
-      {
-        "name": "Carne Asada",
-        "content": "Carne asada, or grilled steak tacos, are one of the more well-known types of street style tacos, but that doesn’t make them any less traditional. Early Mexico is known for its cows and “cowboys,” so it makes sense that hungry ranchers would stuff grilled steak into a corn tortilla for a filling meal in a pinch. Today’s carne asada tacos still closely resemble classic recipes: Marinated skirt or flank steak is cooked over a flame and thinly sliced. Add a warm corn tortilla, cilantro, onions and a salsa of your choice and you’ve got yourself a solid carne asada taco."
-      },
-      {
-        "name": "Carne molida or picadillo",
-        "content": "The mother of the classic American taco we all know and love. Carne Molida or picadillo Tacos are made with seasoned ground beef and served in a corn or flour tortilla. You can dress them up the way we do stateside, with cheese, sour cream, lettuce and tomato. Or go the more traditional route with cilantro, onion, and red or green salsa."
-      },
-      {
-        "name": "Birria",
-        "content": "Birria tacos are experiencing a resurgence of sorts thanks to popular social media networks. But in case you’ve never heard of this popular taco option: Birria is a flavorful, chile braised, pulled goat or beef stew that is stuffed in a corn tortilla, griddled and served with its own braising liquid or consomme for dipping. Typical birria toppings include onion, cilantro and, if you order it quesabirria style – melty cheese. Viva La Birria in Boston takes it a step further, serving up these flavorful braised meat in bowls, chimmichangas, tortas and burritos. Order now and get your birria tacos in less time than it’ll take to post about it."
-      },
-      {
-        "name": "Tinga",
-        "content": "Tinga tacos are made with shredded chicken cooked in a spicy tomato-chile sauce. Tinga makes a great filling for flour, corn tortillas and tostadas alike, and pairs best with a tangy pickled red onion and a drizzle of crema to cool it down. As always, add as much or little cilantro and chopped white onion as you want."
-      },
-      {
-        "name": "Pescado",
-        "content": "Typically, when you see pescado tacos on a menu, you can expect a flaky white fish that has been battered, deep fried and paired with sliced avocado and a tangy cabbage slaw. That is what we taco connoisseurs call baja style, named after its inception in the beach-side towns of (Mexico adjacent) southern California. If you’re in Philly, you can get your hands on these bright and crispy tacos from Iztaccihuatl for pickup or delivery with Grubhub."
-      },
-      {
-        "name": "Al Pastor",
-        "content": "Have you ever walked into a Mexican restaurant and seen those big standing rotisserie spits full of roasted pork and caramelized pineapple? That, dear reader, is Al Pastor. The classic Al Pastor recipe is pork shoulder that has been marinated in an adobo-based rub and then slow roasted with fresh pineapple for a succulent, smoky sweet final product. Pair it with a warm corn tortilla, chopped cilantro and onion, and a salsa verde for the perfect taco al pastor. "
-      },
-      {
-        "name": "Barbacoa",
-        "content": "Recipes for barbacoa vary depending on which parts of Mexico you may be in. But in essence, goat, or beef chuck roast is slow cooked in a flavorful, seasoned broth and shredded. When ordering barbacoa tacos you can expect them to come with fresh lime, chopped cilantro and onion, and a spicy salsa. You can get these more elusive goat version of these tacos from Empellon Taqueria in NYC when you order now for pickup or delivery with Grubhub."
-      },
-      {
-        "name": "Chorizo",
-        "content": "Not all chorizos are made the same, and the one you choose will determine the type of pork taco you’re going to get! Unlike Spanish chorizo, which is a cured pork sausage that has been seasoned with paprika. Mexican chorizo is a spicy, ground pork sausage that has been seasoned with red chile peppers to get chorizo rojo. Or, it can be made with green chile peppers and cilantro, which will get you chorizo verde. Both options are delicious, but you’re more likely to see chorizo rojo tacos on the menus at your favorite Mexican restaurants."
-      }
-    ]
+    "subBodyTwo": {
+      "title": "Carne molida or picadillo",
+      "contentOne": "The mother of the classic American taco we all know and love. Carne Molida or picadillo Tacos are made with seasoned ground beef and served in a corn or flour tortilla. You can dress them up the way we do stateside, with cheese, sour cream, lettuce and tomato. Or go the more traditional route with cilantro, onion, and red or green salsa."
+    }
   },
   {
-    "name": "15 Types of Tacos Everyone Should Try at Least Once",
-    "fetureImg": "https://ibb.co/vVkpcXG",
-    "authorImg": "https://i.ibb.co/yNrM72S/client-2.png",
-    "authorName": "Gilbert",
-    "authorDesc": "Mark Lowson a Florida native, who left his career in corporate w management six years ago to embark on a summer of soul searching that would",
-    "publish": "July 18, 2021",
-    "body": {
-      "summary": "It doesn’t have to be Tuesday for you to enjoy a good taco or three. According to statistics, Americans are eating upwards of 4.5 billion tacos a year! This comes as no surprise to the average taco enthusiast. If you know anything about all the different taco styles out there, you know the options are plentiful when it comes to choosing what types of tacos to order. Originating in Mexico, different types of tacos have been prepared and eaten as a quick, on the go street food since the 18th century. Since first arriving in the United States in 1905, Mexican-style tacos have been tweaked and remixed into countless variations, inspired by flavors from all over the world. These days, a taco can pretty much be defined as anything eaten on a tortilla. But to really test your taco knowledge, let’s get into the classic types of Mexican tacos. Traditional Mexican ingredients and flavors are inseparable when it comes to the classic taco varieties. And while you may be familiar with a few different types of street tacos and the typical American cheese-lettuce-tomato style — here are 15 classic taco varieties that you just have to try in order to consider yourself a true taco connoisseur."
+    "name": "Delicious Desserts Food Chocolate Bagel",
+    "fetureImg": "https://i.ibb.co/jhSxRcJ/2-2.jpg",
+    "bodyImgOne": "https://i.ibb.co/VqkmG1r/Top-view.jpg",
+    "bodyImgTwo": "https://i.ibb.co/2ckkhfR/Top-view.jpg",
+    "category": "Food",
+    "tag": "Inspiration",
+    "writer": "Oliver Huber",
+    "writerDesc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal , as opposed to using many web sites still in their infancy look like readable",
+    "summary": "It doesn’t have to be Tuesday for you to enjoy a good taco or three. According to statistics, Americans are eating upwards of 4.5 billion tacos a year! This comes as no surprise to the average taco enthusiast. If you know anything about all the different taco styles out there, you know the options are plentiful when it comes to choosing what types of tacos to order. Originating in Mexico, different types of tacos have been prepared and eaten as a quick, on the go street food since the 18th century. Since first arriving in the United States in 1905, Mexican-style tacos have been tweaked and remixed into countless variations, inspired by flavors from all over the world. These days, a taco can pretty much be defined as anything eaten on a tortilla.",
+    "subBodyOne": {
+      "title": "Latest Articles Updated Daily",
+      "contentOne": "Carne asada, or grilled steak tacos, are one of the more well-known types of street style tacos, but that doesn’t make them any less traditional. Early Mexico is known for its cows and “cowboys,” so it makes sense that hungry ranchers would stuff grilled steak into a corn tortilla for a filling meal in a pinch. Today’s carne asada tacos still closely resemble classic recipes: Marinated skirt or flank steak is cooked over a flame and thinly sliced. Add a warm corn tortilla, cilantro, onions and a salsa of your choice and you’ve got yourself a solid carne asada taco.",
+      "contentTwo": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a of letters, as opposed to using ‘Content here, content here’, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text"
     },
-    "subbody": [
-      {
-        "name": "Carne Asada",
-        "content": "Carne asada, or grilled steak tacos, are one of the more well-known types of street style tacos, but that doesn’t make them any less traditional. Early Mexico is known for its cows and “cowboys,” so it makes sense that hungry ranchers would stuff grilled steak into a corn tortilla for a filling meal in a pinch. Today’s carne asada tacos still closely resemble classic recipes: Marinated skirt or flank steak is cooked over a flame and thinly sliced. Add a warm corn tortilla, cilantro, onions and a salsa of your choice and you’ve got yourself a solid carne asada taco."
-      },
-      {
-        "name": "Carne molida or picadillo",
-        "content": "The mother of the classic American taco we all know and love. Carne Molida or picadillo Tacos are made with seasoned ground beef and served in a corn or flour tortilla. You can dress them up the way we do stateside, with cheese, sour cream, lettuce and tomato. Or go the more traditional route with cilantro, onion, and red or green salsa."
-      },
-      {
-        "name": "Birria",
-        "content": "Birria tacos are experiencing a resurgence of sorts thanks to popular social media networks. But in case you’ve never heard of this popular taco option: Birria is a flavorful, chile braised, pulled goat or beef stew that is stuffed in a corn tortilla, griddled and served with its own braising liquid or consomme for dipping. Typical birria toppings include onion, cilantro and, if you order it quesabirria style – melty cheese. Viva La Birria in Boston takes it a step further, serving up these flavorful braised meat in bowls, chimmichangas, tortas and burritos. Order now and get your birria tacos in less time than it’ll take to post about it."
-      },
-      {
-        "name": "Tinga",
-        "content": "Tinga tacos are made with shredded chicken cooked in a spicy tomato-chile sauce. Tinga makes a great filling for flour, corn tortillas and tostadas alike, and pairs best with a tangy pickled red onion and a drizzle of crema to cool it down. As always, add as much or little cilantro and chopped white onion as you want."
-      },
-      {
-        "name": "Pescado",
-        "content": "Typically, when you see pescado tacos on a menu, you can expect a flaky white fish that has been battered, deep fried and paired with sliced avocado and a tangy cabbage slaw. That is what we taco connoisseurs call baja style, named after its inception in the beach-side towns of (Mexico adjacent) southern California. If you’re in Philly, you can get your hands on these bright and crispy tacos from Iztaccihuatl for pickup or delivery with Grubhub."
-      },
-      {
-        "name": "Al Pastor",
-        "content": "Have you ever walked into a Mexican restaurant and seen those big standing rotisserie spits full of roasted pork and caramelized pineapple? That, dear reader, is Al Pastor. The classic Al Pastor recipe is pork shoulder that has been marinated in an adobo-based rub and then slow roasted with fresh pineapple for a succulent, smoky sweet final product. Pair it with a warm corn tortilla, chopped cilantro and onion, and a salsa verde for the perfect taco al pastor. "
-      },
-      {
-        "name": "Barbacoa",
-        "content": "Recipes for barbacoa vary depending on which parts of Mexico you may be in. But in essence, goat, or beef chuck roast is slow cooked in a flavorful, seasoned broth and shredded. When ordering barbacoa tacos you can expect them to come with fresh lime, chopped cilantro and onion, and a spicy salsa. You can get these more elusive goat version of these tacos from Empellon Taqueria in NYC when you order now for pickup or delivery with Grubhub."
-      },
-      {
-        "name": "Chorizo",
-        "content": "Not all chorizos are made the same, and the one you choose will determine the type of pork taco you’re going to get! Unlike Spanish chorizo, which is a cured pork sausage that has been seasoned with paprika. Mexican chorizo is a spicy, ground pork sausage that has been seasoned with red chile peppers to get chorizo rojo. Or, it can be made with green chile peppers and cilantro, which will get you chorizo verde. Both options are delicious, but you’re more likely to see chorizo rojo tacos on the menus at your favorite Mexican restaurants."
-      }
-    ]
+    "subBodyTwo": {
+      "title": "Carne molida or picadillo",
+      "contentOne": "The mother of the classic American taco we all know and love. Carne Molida or picadillo Tacos are made with seasoned ground beef and served in a corn or flour tortilla. You can dress them up the way we do stateside, with cheese, sour cream, lettuce and tomato. Or go the more traditional route with cilantro, onion, and red or green salsa."
+    }
   },
   {
-    "name": "15 Types of Tacos Everyone Should Try at Least Once",
-    "fetureImg": "https://ibb.co/vVkpcXG",
-    "authorImg": "https://i.ibb.co/yNrM72S/client-2.png",
-    "authorName": "Gilbert",
-    "authorDesc": "Mark Lowson a Florida native, who left his career in corporate w management six years ago to embark on a summer of soul searching that would",
-    "publish": "July 18, 2021",
-    "body": {
-      "summary": "It doesn’t have to be Tuesday for you to enjoy a good taco or three. According to statistics, Americans are eating upwards of 4.5 billion tacos a year! This comes as no surprise to the average taco enthusiast. If you know anything about all the different taco styles out there, you know the options are plentiful when it comes to choosing what types of tacos to order. Originating in Mexico, different types of tacos have been prepared and eaten as a quick, on the go street food since the 18th century. Since first arriving in the United States in 1905, Mexican-style tacos have been tweaked and remixed into countless variations, inspired by flavors from all over the world. These days, a taco can pretty much be defined as anything eaten on a tortilla. But to really test your taco knowledge, let’s get into the classic types of Mexican tacos. Traditional Mexican ingredients and flavors are inseparable when it comes to the classic taco varieties. And while you may be familiar with a few different types of street tacos and the typical American cheese-lettuce-tomato style — here are 15 classic taco varieties that you just have to try in order to consider yourself a true taco connoisseur."
+    "name": "Taragon Hollandaise Easy Homemade",
+    "fetureImg": "https://i.ibb.co/ZSqqp6D/1-2.jpg",
+    "bodyImgOne": "https://i.ibb.co/RCfyfcv/Fried-chicken.jpg",
+    "bodyImgTwo": "https://i.ibb.co/8xTkbBN/Chicken.jpg",
+    "category": "Food",
+    "tag": "Inspiration",
+    "writer": "Maximilian Berger",
+    "writerDesc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal , as opposed to using many web sites still in their infancy look like readable",
+    "summary": "It doesn’t have to be Tuesday for you to enjoy a good taco or three. According to statistics, Americans are eating upwards of 4.5 billion tacos a year! This comes as no surprise to the average taco enthusiast. If you know anything about all the different taco styles out there, you know the options are plentiful when it comes to choosing what types of tacos to order. Originating in Mexico, different types of tacos have been prepared and eaten as a quick, on the go street food since the 18th century. Since first arriving in the United States in 1905, Mexican-style tacos have been tweaked and remixed into countless variations, inspired by flavors from all over the world. These days, a taco can pretty much be defined as anything eaten on a tortilla.",
+    "subBodyOne": {
+      "title": "Latest Articles Updated Daily",
+      "contentOne": "Carne asada, or grilled steak tacos, are one of the more well-known types of street style tacos, but that doesn’t make them any less traditional. Early Mexico is known for its cows and “cowboys,” so it makes sense that hungry ranchers would stuff grilled steak into a corn tortilla for a filling meal in a pinch. Today’s carne asada tacos still closely resemble classic recipes: Marinated skirt or flank steak is cooked over a flame and thinly sliced. Add a warm corn tortilla, cilantro, onions and a salsa of your choice and you’ve got yourself a solid carne asada taco.",
+      "contentTwo": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a of letters, as opposed to using ‘Content here, content here’, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text"
     },
-    "subbody": [
-      {
-        "name": "Carne Asada",
-        "content": "Carne asada, or grilled steak tacos, are one of the more well-known types of street style tacos, but that doesn’t make them any less traditional. Early Mexico is known for its cows and “cowboys,” so it makes sense that hungry ranchers would stuff grilled steak into a corn tortilla for a filling meal in a pinch. Today’s carne asada tacos still closely resemble classic recipes: Marinated skirt or flank steak is cooked over a flame and thinly sliced. Add a warm corn tortilla, cilantro, onions and a salsa of your choice and you’ve got yourself a solid carne asada taco."
-      },
-      {
-        "name": "Carne molida or picadillo",
-        "content": "The mother of the classic American taco we all know and love. Carne Molida or picadillo Tacos are made with seasoned ground beef and served in a corn or flour tortilla. You can dress them up the way we do stateside, with cheese, sour cream, lettuce and tomato. Or go the more traditional route with cilantro, onion, and red or green salsa."
-      },
-      {
-        "name": "Birria",
-        "content": "Birria tacos are experiencing a resurgence of sorts thanks to popular social media networks. But in case you’ve never heard of this popular taco option: Birria is a flavorful, chile braised, pulled goat or beef stew that is stuffed in a corn tortilla, griddled and served with its own braising liquid or consomme for dipping. Typical birria toppings include onion, cilantro and, if you order it quesabirria style – melty cheese. Viva La Birria in Boston takes it a step further, serving up these flavorful braised meat in bowls, chimmichangas, tortas and burritos. Order now and get your birria tacos in less time than it’ll take to post about it."
-      },
-      {
-        "name": "Tinga",
-        "content": "Tinga tacos are made with shredded chicken cooked in a spicy tomato-chile sauce. Tinga makes a great filling for flour, corn tortillas and tostadas alike, and pairs best with a tangy pickled red onion and a drizzle of crema to cool it down. As always, add as much or little cilantro and chopped white onion as you want."
-      },
-      {
-        "name": "Pescado",
-        "content": "Typically, when you see pescado tacos on a menu, you can expect a flaky white fish that has been battered, deep fried and paired with sliced avocado and a tangy cabbage slaw. That is what we taco connoisseurs call baja style, named after its inception in the beach-side towns of (Mexico adjacent) southern California. If you’re in Philly, you can get your hands on these bright and crispy tacos from Iztaccihuatl for pickup or delivery with Grubhub."
-      },
-      {
-        "name": "Al Pastor",
-        "content": "Have you ever walked into a Mexican restaurant and seen those big standing rotisserie spits full of roasted pork and caramelized pineapple? That, dear reader, is Al Pastor. The classic Al Pastor recipe is pork shoulder that has been marinated in an adobo-based rub and then slow roasted with fresh pineapple for a succulent, smoky sweet final product. Pair it with a warm corn tortilla, chopped cilantro and onion, and a salsa verde for the perfect taco al pastor. "
-      },
-      {
-        "name": "Barbacoa",
-        "content": "Recipes for barbacoa vary depending on which parts of Mexico you may be in. But in essence, goat, or beef chuck roast is slow cooked in a flavorful, seasoned broth and shredded. When ordering barbacoa tacos you can expect them to come with fresh lime, chopped cilantro and onion, and a spicy salsa. You can get these more elusive goat version of these tacos from Empellon Taqueria in NYC when you order now for pickup or delivery with Grubhub."
-      },
-      {
-        "name": "Chorizo",
-        "content": "Not all chorizos are made the same, and the one you choose will determine the type of pork taco you’re going to get! Unlike Spanish chorizo, which is a cured pork sausage that has been seasoned with paprika. Mexican chorizo is a spicy, ground pork sausage that has been seasoned with red chile peppers to get chorizo rojo. Or, it can be made with green chile peppers and cilantro, which will get you chorizo verde. Both options are delicious, but you’re more likely to see chorizo rojo tacos on the menus at your favorite Mexican restaurants."
-      }
-    ]
+    "subBodyTwo": {
+      "title": "Carne molida or picadillo",
+      "contentOne": "The mother of the classic American taco we all know and love. Carne Molida or picadillo Tacos are made with seasoned ground beef and served in a corn or flour tortilla. You can dress them up the way we do stateside, with cheese, sour cream, lettuce and tomato. Or go the more traditional route with cilantro, onion, and red or green salsa."
+    }
   },
   {
-    "name": "15 Types of Tacos Everyone Should Try at Least Once",
-    "fetureImg": "https://ibb.co/vVkpcXG",
-    "authorImg": "https://i.ibb.co/yNrM72S/client-2.png",
-    "authorName": "Gilbert",
-    "authorDesc": "Mark Lowson a Florida native, who left his career in corporate w management six years ago to embark on a summer of soul searching that would",
-    "publish": "July 18, 2021",
-    "body": {
-      "summary": "It doesn’t have to be Tuesday for you to enjoy a good taco or three. According to statistics, Americans are eating upwards of 4.5 billion tacos a year! This comes as no surprise to the average taco enthusiast. If you know anything about all the different taco styles out there, you know the options are plentiful when it comes to choosing what types of tacos to order. Originating in Mexico, different types of tacos have been prepared and eaten as a quick, on the go street food since the 18th century. Since first arriving in the United States in 1905, Mexican-style tacos have been tweaked and remixed into countless variations, inspired by flavors from all over the world. These days, a taco can pretty much be defined as anything eaten on a tortilla. But to really test your taco knowledge, let’s get into the classic types of Mexican tacos. Traditional Mexican ingredients and flavors are inseparable when it comes to the classic taco varieties. And while you may be familiar with a few different types of street tacos and the typical American cheese-lettuce-tomato style — here are 15 classic taco varieties that you just have to try in order to consider yourself a true taco connoisseur."
+    "name": "Food With Love Cupcas Cooks Recipe",
+    "fetureImg": "https://i.ibb.co/bdx1zfm/3-2.jpg",
+    "bodyImgOne": "https://i.ibb.co/8xTkbBN/Chicken.jpg",
+    "bodyImgTwo": "https://i.ibb.co/dtXF0ZP/Baguette.jpg",
+    "category": "Food",
+    "tag": "Inspiration",
+    "writer": "Tobias Schmid",
+    "writerDesc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal , as opposed to using many web sites still in their infancy look like readable",
+    "summary": "It doesn’t have to be Tuesday for you to enjoy a good taco or three. According to statistics, Americans are eating upwards of 4.5 billion tacos a year! This comes as no surprise to the average taco enthusiast. If you know anything about all the different taco styles out there, you know the options are plentiful when it comes to choosing what types of tacos to order. Originating in Mexico, different types of tacos have been prepared and eaten as a quick, on the go street food since the 18th century. Since first arriving in the United States in 1905, Mexican-style tacos have been tweaked and remixed into countless variations, inspired by flavors from all over the world. These days, a taco can pretty much be defined as anything eaten on a tortilla.",
+    "subBodyOne": {
+      "title": "Latest Articles Updated Daily",
+      "contentOne": "Carne asada, or grilled steak tacos, are one of the more well-known types of street style tacos, but that doesn’t make them any less traditional. Early Mexico is known for its cows and “cowboys,” so it makes sense that hungry ranchers would stuff grilled steak into a corn tortilla for a filling meal in a pinch. Today’s carne asada tacos still closely resemble classic recipes: Marinated skirt or flank steak is cooked over a flame and thinly sliced. Add a warm corn tortilla, cilantro, onions and a salsa of your choice and you’ve got yourself a solid carne asada taco.",
+      "contentTwo": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a of letters, as opposed to using ‘Content here, content here’, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text"
     },
-    "subbody": [
-      {
-        "name": "Carne Asada",
-        "content": "Carne asada, or grilled steak tacos, are one of the more well-known types of street style tacos, but that doesn’t make them any less traditional. Early Mexico is known for its cows and “cowboys,” so it makes sense that hungry ranchers would stuff grilled steak into a corn tortilla for a filling meal in a pinch. Today’s carne asada tacos still closely resemble classic recipes: Marinated skirt or flank steak is cooked over a flame and thinly sliced. Add a warm corn tortilla, cilantro, onions and a salsa of your choice and you’ve got yourself a solid carne asada taco."
-      },
-      {
-        "name": "Carne molida or picadillo",
-        "content": "The mother of the classic American taco we all know and love. Carne Molida or picadillo Tacos are made with seasoned ground beef and served in a corn or flour tortilla. You can dress them up the way we do stateside, with cheese, sour cream, lettuce and tomato. Or go the more traditional route with cilantro, onion, and red or green salsa."
-      },
-      {
-        "name": "Birria",
-        "content": "Birria tacos are experiencing a resurgence of sorts thanks to popular social media networks. But in case you’ve never heard of this popular taco option: Birria is a flavorful, chile braised, pulled goat or beef stew that is stuffed in a corn tortilla, griddled and served with its own braising liquid or consomme for dipping. Typical birria toppings include onion, cilantro and, if you order it quesabirria style – melty cheese. Viva La Birria in Boston takes it a step further, serving up these flavorful braised meat in bowls, chimmichangas, tortas and burritos. Order now and get your birria tacos in less time than it’ll take to post about it."
-      },
-      {
-        "name": "Tinga",
-        "content": "Tinga tacos are made with shredded chicken cooked in a spicy tomato-chile sauce. Tinga makes a great filling for flour, corn tortillas and tostadas alike, and pairs best with a tangy pickled red onion and a drizzle of crema to cool it down. As always, add as much or little cilantro and chopped white onion as you want."
-      },
-      {
-        "name": "Pescado",
-        "content": "Typically, when you see pescado tacos on a menu, you can expect a flaky white fish that has been battered, deep fried and paired with sliced avocado and a tangy cabbage slaw. That is what we taco connoisseurs call baja style, named after its inception in the beach-side towns of (Mexico adjacent) southern California. If you’re in Philly, you can get your hands on these bright and crispy tacos from Iztaccihuatl for pickup or delivery with Grubhub."
-      },
-      {
-        "name": "Al Pastor",
-        "content": "Have you ever walked into a Mexican restaurant and seen those big standing rotisserie spits full of roasted pork and caramelized pineapple? That, dear reader, is Al Pastor. The classic Al Pastor recipe is pork shoulder that has been marinated in an adobo-based rub and then slow roasted with fresh pineapple for a succulent, smoky sweet final product. Pair it with a warm corn tortilla, chopped cilantro and onion, and a salsa verde for the perfect taco al pastor. "
-      },
-      {
-        "name": "Barbacoa",
-        "content": "Recipes for barbacoa vary depending on which parts of Mexico you may be in. But in essence, goat, or beef chuck roast is slow cooked in a flavorful, seasoned broth and shredded. When ordering barbacoa tacos you can expect them to come with fresh lime, chopped cilantro and onion, and a spicy salsa. You can get these more elusive goat version of these tacos from Empellon Taqueria in NYC when you order now for pickup or delivery with Grubhub."
-      },
-      {
-        "name": "Chorizo",
-        "content": "Not all chorizos are made the same, and the one you choose will determine the type of pork taco you’re going to get! Unlike Spanish chorizo, which is a cured pork sausage that has been seasoned with paprika. Mexican chorizo is a spicy, ground pork sausage that has been seasoned with red chile peppers to get chorizo rojo. Or, it can be made with green chile peppers and cilantro, which will get you chorizo verde. Both options are delicious, but you’re more likely to see chorizo rojo tacos on the menus at your favorite Mexican restaurants."
-      }
-    ]
+    "subBodyTwo": {
+      "title": "Carne molida or picadillo",
+      "contentOne": "The mother of the classic American taco we all know and love. Carne Molida or picadillo Tacos are made with seasoned ground beef and served in a corn or flour tortilla. You can dress them up the way we do stateside, with cheese, sour cream, lettuce and tomato. Or go the more traditional route with cilantro, onion, and red or green salsa."
+    }
   },
   {
-    "name": "15 Types of Tacos Everyone Should Try at Least Once",
-    "fetureImg": "https://ibb.co/vVkpcXG",
-    "authorImg": "https://i.ibb.co/yNrM72S/client-2.png",
-    "authorName": "Gilbert",
-    "authorDesc": "Mark Lowson a Florida native, who left his career in corporate w management six years ago to embark on a summer of soul searching that would",
-    "publish": "July 18, 2021",
-    "body": {
-      "summary": "It doesn’t have to be Tuesday for you to enjoy a good taco or three. According to statistics, Americans are eating upwards of 4.5 billion tacos a year! This comes as no surprise to the average taco enthusiast. If you know anything about all the different taco styles out there, you know the options are plentiful when it comes to choosing what types of tacos to order. Originating in Mexico, different types of tacos have been prepared and eaten as a quick, on the go street food since the 18th century. Since first arriving in the United States in 1905, Mexican-style tacos have been tweaked and remixed into countless variations, inspired by flavors from all over the world. These days, a taco can pretty much be defined as anything eaten on a tortilla. But to really test your taco knowledge, let’s get into the classic types of Mexican tacos. Traditional Mexican ingredients and flavors are inseparable when it comes to the classic taco varieties. And while you may be familiar with a few different types of street tacos and the typical American cheese-lettuce-tomato style — here are 15 classic taco varieties that you just have to try in order to consider yourself a true taco connoisseur."
+    "name": "Chocolate Bagel Cupcas Cooks Fresh",
+    "fetureImg": "https://i.ibb.co/NFVPyYG/11.jpg",
+    "bodyImgOne": "https://i.ibb.co/n0087zd/side-view-doner.jpg",
+    "bodyImgTwo": "https://i.ibb.co/k56nRZd/793-1859.jpg",
+    "category": "Food",
+    "tag": "Inspiration",
+    "writer": "Michal Smart",
+    "writerDesc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal , as opposed to using many web sites still in their infancy look like readable",
+    "summary": "It doesn’t have to be Tuesday for you to enjoy a good taco or three. According to statistics, Americans are eating upwards of 4.5 billion tacos a year! This comes as no surprise to the average taco enthusiast. If you know anything about all the different taco styles out there, you know the options are plentiful when it comes to choosing what types of tacos to order. Originating in Mexico, different types of tacos have been prepared and eaten as a quick, on the go street food since the 18th century. Since first arriving in the United States in 1905, Mexican-style tacos have been tweaked and remixed into countless variations, inspired by flavors from all over the world. These days, a taco can pretty much be defined as anything eaten on a tortilla.",
+    "subBodyOne": {
+      "title": "Latest Articles Updated Daily",
+      "contentOne": "Carne asada, or grilled steak tacos, are one of the more well-known types of street style tacos, but that doesn’t make them any less traditional. Early Mexico is known for its cows and “cowboys,” so it makes sense that hungry ranchers would stuff grilled steak into a corn tortilla for a filling meal in a pinch. Today’s carne asada tacos still closely resemble classic recipes: Marinated skirt or flank steak is cooked over a flame and thinly sliced. Add a warm corn tortilla, cilantro, onions and a salsa of your choice and you’ve got yourself a solid carne asada taco.",
+      "contentTwo": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a of letters, as opposed to using ‘Content here, content here’, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text"
     },
-    "subbody": [
-      {
-        "name": "Carne Asada",
-        "content": "Carne asada, or grilled steak tacos, are one of the more well-known types of street style tacos, but that doesn’t make them any less traditional. Early Mexico is known for its cows and “cowboys,” so it makes sense that hungry ranchers would stuff grilled steak into a corn tortilla for a filling meal in a pinch. Today’s carne asada tacos still closely resemble classic recipes: Marinated skirt or flank steak is cooked over a flame and thinly sliced. Add a warm corn tortilla, cilantro, onions and a salsa of your choice and you’ve got yourself a solid carne asada taco."
-      },
-      {
-        "name": "Carne molida or picadillo",
-        "content": "The mother of the classic American taco we all know and love. Carne Molida or picadillo Tacos are made with seasoned ground beef and served in a corn or flour tortilla. You can dress them up the way we do stateside, with cheese, sour cream, lettuce and tomato. Or go the more traditional route with cilantro, onion, and red or green salsa."
-      },
-      {
-        "name": "Birria",
-        "content": "Birria tacos are experiencing a resurgence of sorts thanks to popular social media networks. But in case you’ve never heard of this popular taco option: Birria is a flavorful, chile braised, pulled goat or beef stew that is stuffed in a corn tortilla, griddled and served with its own braising liquid or consomme for dipping. Typical birria toppings include onion, cilantro and, if you order it quesabirria style – melty cheese. Viva La Birria in Boston takes it a step further, serving up these flavorful braised meat in bowls, chimmichangas, tortas and burritos. Order now and get your birria tacos in less time than it’ll take to post about it."
-      },
-      {
-        "name": "Tinga",
-        "content": "Tinga tacos are made with shredded chicken cooked in a spicy tomato-chile sauce. Tinga makes a great filling for flour, corn tortillas and tostadas alike, and pairs best with a tangy pickled red onion and a drizzle of crema to cool it down. As always, add as much or little cilantro and chopped white onion as you want."
-      },
-      {
-        "name": "Pescado",
-        "content": "Typically, when you see pescado tacos on a menu, you can expect a flaky white fish that has been battered, deep fried and paired with sliced avocado and a tangy cabbage slaw. That is what we taco connoisseurs call baja style, named after its inception in the beach-side towns of (Mexico adjacent) southern California. If you’re in Philly, you can get your hands on these bright and crispy tacos from Iztaccihuatl for pickup or delivery with Grubhub."
-      },
-      {
-        "name": "Al Pastor",
-        "content": "Have you ever walked into a Mexican restaurant and seen those big standing rotisserie spits full of roasted pork and caramelized pineapple? That, dear reader, is Al Pastor. The classic Al Pastor recipe is pork shoulder that has been marinated in an adobo-based rub and then slow roasted with fresh pineapple for a succulent, smoky sweet final product. Pair it with a warm corn tortilla, chopped cilantro and onion, and a salsa verde for the perfect taco al pastor. "
-      },
-      {
-        "name": "Barbacoa",
-        "content": "Recipes for barbacoa vary depending on which parts of Mexico you may be in. But in essence, goat, or beef chuck roast is slow cooked in a flavorful, seasoned broth and shredded. When ordering barbacoa tacos you can expect them to come with fresh lime, chopped cilantro and onion, and a spicy salsa. You can get these more elusive goat version of these tacos from Empellon Taqueria in NYC when you order now for pickup or delivery with Grubhub."
-      },
-      {
-        "name": "Chorizo",
-        "content": "Not all chorizos are made the same, and the one you choose will determine the type of pork taco you’re going to get! Unlike Spanish chorizo, which is a cured pork sausage that has been seasoned with paprika. Mexican chorizo is a spicy, ground pork sausage that has been seasoned with red chile peppers to get chorizo rojo. Or, it can be made with green chile peppers and cilantro, which will get you chorizo verde. Both options are delicious, but you’re more likely to see chorizo rojo tacos on the menus at your favorite Mexican restaurants."
-      }
-    ]
+    "subBodyTwo": {
+      "title": "Carne molida or picadillo",
+      "contentOne": "The mother of the classic American taco we all know and love. Carne Molida or picadillo Tacos are made with seasoned ground beef and served in a corn or flour tortilla. You can dress them up the way we do stateside, with cheese, sour cream, lettuce and tomato. Or go the more traditional route with cilantro, onion, and red or green salsa."
+    }
   }
 ]
