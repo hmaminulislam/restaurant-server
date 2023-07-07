@@ -2,8 +2,8 @@ const express = require("express");
 const app = express();
 const dotenv = require("dotenv").config();
 const cors = require("cors");
-const Dbconnect = require("./utiles/DBconccect");
-const Router = require("./app/modules/blog/blog.router")
+const dbConnect = require("./utiles/dbConnect");
+const Router = require("./app/modules/blog/blog.router");
 
 // port 
 const port = process.env.PORT || 4000;
@@ -16,7 +16,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 // database connected
-Dbconnect();
+dbConnect();
 
 
 // routes

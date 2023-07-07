@@ -1,8 +1,12 @@
 const Blog = require("./blog.model");
 
 const blogPost = async (blog) => {
-    const blogNew = await Blog.create(blog);
-    return blogNew;
+    try {
+        const blogNew = await Blog.create(blog);
+        return blogNew;
+    } catch (error) {
+        return error
+    }
 };
 
 const blogs = async () => {
@@ -10,5 +14,10 @@ const blogs = async () => {
     return getblogs;
 }
 
+const blogIdDb = async (blogId) => {
+    const blog = await Blog.findById(blogId);
+    return blog
+}
 
-module.exports = {blogPost, blogs}
+
+module.exports = { blogPost, blogs, blogIdDb };
