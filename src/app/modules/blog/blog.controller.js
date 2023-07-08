@@ -1,5 +1,5 @@
 const Blog = require("./blog.model");
-const { blogPost, blogs, blogIdDb } = require("./blog.service");
+const { blogPost, blogs, blogIdDb, queryBlogs, getBlogsDb } = require("./blog.service");
 
 const createBlog = async (req, res) => {
     const blog = req.body;
@@ -7,9 +7,14 @@ const createBlog = async (req, res) => {
     res.send({status: true, blog: newBlog})
 }
 
-const getBlogs = async (req, res) => {
-    const newBlogs = await blogs()
+const queryGetBlogs = async (req, res) => {
+    const newBlogs = await queryBlogs(req)
     res.send(newBlogs)
+}
+
+const getBlogs = async (req, res) => {
+    const blogs = await getBlogsDb()
+    res.send(blogs)
 }
 
 const getBlog = async (req, res) => {
@@ -17,4 +22,4 @@ const getBlog = async (req, res) => {
     const blog = await blogIdDb(blogId)
     res.send(blog)
 }
-module.exports = {createBlog, getBlogs, getBlog}
+module.exports = { createBlog, getBlogs, getBlog, queryGetBlogs };
