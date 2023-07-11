@@ -36,51 +36,51 @@
   },
   {
     "price": 99.41,
-    "image": "http://placehold.it/32x32",
+    "image": "https://i.ibb.co/kmpPyML/Cheese-Burger.jpg",
     "category": "seafood",
-    "name": "Helen Foreman",
+    "name": "Cheese Burger",
     "description": "Cillum in quis exercitation magna ex voluptate minim ipsum irure aliqua anim. In anim ea aliqua eiusmod culpa enim. Nisi incididunt enim incididunt labore duis labore aliqua sint sunt et mollit ad. Incididunt tempor pariatur exercitation ut nostrud. Culpa excepteur velit do ipsum eiusmod deserunt eiusmod. Irure exercitation anim eiusmod aliqua commodo ea. Sunt laborum culpa nisi ullamco aliqua quis irure cupidatat quis ad ea sit."
   },
   {
     "price": 85.53,
-    "image": "http://placehold.it/32x32",
-    "category": "pizza",
-    "name": "Puckett Farrell",
+    "image": "https://i.ibb.co/fvRjbBp/Fettuccine-Bolognese.jpg",
+    "category": "seafood",
+    "name": "Fettuccine Bolognese",
     "description": "Enim enim officia sit aute labore culpa dolore elit reprehenderit exercitation. Sint anim consequat incididunt et non. Enim magna cupidatat in nulla tempor irure adipisicing id exercitation sit mollit."
   },
   {
     "price": 71.06,
-    "image": "http://placehold.it/32x32",
-    "category": "seafood",
-    "name": "Davis Suarez",
+    "image": "https://i.ibb.co/TBpNczZ/Pizza-Margherita.jpg",
+    "category": "pizza",
+    "name": "Pizza Margherita",
     "description": "Voluptate et laborum dolore ea culpa occaecat officia incididunt. Anim dolore nostrud adipisicing consectetur ipsum eiusmod nostrud esse. Officia sint laborum nostrud aliquip sit anim sit duis sunt excepteur. Culpa aliquip laboris ad enim nulla exercitation aliquip aliquip culpa. Dolore et reprehenderit occaecat incididunt amet ut. Nostrud magna labore laboris esse enim nostrud enim fugiat id reprehenderit tempor. Ipsum velit officia adipisicing eiusmod eu Lorem in pariatur deserunt incididunt aute pariatur."
   },
   {
     "price": 40.24,
-    "image": "http://placehold.it/32x32",
+    "image": "https://i.ibb.co/bNwG2t9/Beef-Burger-with-Chips.jpg",
     "category": "seafood",
-    "name": "Louella Bryan",
+    "name": "Beef Burger with Chips",
     "description": "Cupidatat est nostrud in in aliqua adipisicing. Ut aliquip nulla sit ullamco veniam reprehenderit mollit ullamco aliquip. Cupidatat aliquip do deserunt cupidatat duis. Officia amet excepteur sunt deserunt aute sunt consequat ad pariatur enim qui."
   },
   {
     "price": 33.93,
-    "image": "http://placehold.it/32x32",
+    "image": "https://i.ibb.co/F3JpP32/Chicken-Wings.jpg",
     "category": "burger",
-    "name": "Bridges Meadows",
+    "name": "Chicken Wings",
     "description": "Occaecat duis nisi eu commodo anim cupidatat aliquip velit sint. Veniam cillum non cillum magna ea deserunt voluptate. Veniam proident excepteur dolor velit irure elit. Officia in non irure fugiat magna sint. Mollit exercitation sit sit eiusmod eiusmod do non et dolor."
   },
   {
     "price": 58.68,
-    "image": "http://placehold.it/32x32",
+    "image": "https://i.ibb.co/zN8HQ0z/Mozzarella-Sticks.jpg",
     "category": "pizza",
-    "name": "Marylou Lowe",
+    "name": "Mozzarella Sticks",
     "description": "Mollit amet enim ex ea laboris irure qui deserunt incididunt reprehenderit. Ullamco mollit aute cillum reprehenderit. Ea eiusmod cillum dolore est dolore labore laboris deserunt veniam eiusmod officia elit. Non sint nisi dolor ex reprehenderit nostrud cillum id nostrud. Do magna enim in ipsum amet cupidatat esse voluptate mollit mollit."
   },
   {
     "price": 45.47,
-    "image": "http://placehold.it/32x32",
+    "image": "https://i.ibb.co/4Ywy68v/Fried-Chicken.jpg",
     "category": "burger",
-    "name": "Mcdonald Murphy",
+    "name": "Fried Chicken",
     "description": "Ipsum pariatur eiusmod eiusmod aute anim nisi do laboris fugiat sunt ea reprehenderit. Incididunt anim aute occaecat sunt aute. Fugiat dolor nisi et adipisicing adipisicing reprehenderit excepteur nulla. Voluptate magna magna consectetur occaecat commodo dolore in magna ad consectetur quis cupidatat nisi. Culpa culpa tempor dolor voluptate eu aliquip commodo dolor."
   }
 ]
